@@ -6,6 +6,7 @@ body, html, .container-fluid{
     margin: none;
     padding-right: 0;
     padding-left: 0;
+    overflow-x: hidden;
 }
 
 
