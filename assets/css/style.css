@@ -10,6 +10,7 @@ body, html, .container-fluid{
 }
 
 
+
 a{
     color: #dddddd;
 }
@@ -21,7 +22,6 @@ a:hover{
 #header-text{
     width: 100%;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 36pt;
     color: #dddddd;
 }
@@ -36,7 +36,6 @@ a:hover{
 }
 
 .quadrant-text{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 36pt;
     color: #dddddd;
     text-align: center;
@@ -99,16 +98,36 @@ background-color: #eb5234;
 #planner{
 background-color:#6857ff;
 }
-/*
-.dictionary-link{
-    background-color: #780878;
+
+#first-subheading{
+background-color: #eb5234;
+text-align: center;
 }
 
-.weather-link{
-background-color: #d24434;
+#second-subheading{
+background-color: #6857ff;
+text-align: center;
 }
 
-.planner-link{
-background-color:#362c91;
+.fullwidth{
+    width: 100%;
+    text-align: center;
 }
-*/
+
+#contact-header{
+    background-color: #36ba59;
+}
+
+.outreach{
+    font-size: 56pt;
+    font-weight: bolder;
+}
+.contact-text{
+    font-size: 35pt;
+    color: #dddddd;
+}
+
+.contact-big{
+    font-weight: bolder;
+    font-size: 56pt;
+}
