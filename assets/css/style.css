@@ -14,6 +14,10 @@ a{
     color: #dddddd;
 }
 
+a:hover{
+    color: #dddddd;
+}
+
 #header-text{
     width: 100%;
     text-align: center;
@@ -40,6 +44,30 @@ a{
     margin-bottom: 25%;
 }
 
+.project{
+    width: 100%;
+    text-align: center;
+}
+
+.project-title{
+    font-size: 36pt;
+}
+
+.project-image{
+    height: 400px;
+    width: 650px;
+}
+
+.weather-image{
+    height: 400px;
+    width: 800px;
+}
+
+.project-link{
+    font-size: 24pt;
+}
+
+
 #project-div{
     height: 100%;
     background-color:#c22b2b;
@@ -59,3 +87,28 @@ a{
     height: 100%;
     background-color: #eb5234;
 }
+
+#dictionary{
+background-color: #8c088c;
+}
+
+#weather{
+background-color: #eb5234;
+}
+
+#planner{
+background-color:#6857ff;
+}
+/*
+.dictionary-link{
+    background-color: #780878;
+}
+
+.weather-link{
+background-color: #d24434;
+}
+
+.planner-link{
+background-color:#362c91;
+}
+*/
