@@ -131,3 +131,11 @@ text-align: center;
     font-weight: bolder;
     font-size: 56pt;
 }
+
+#first-row{
+    height: 45%;
+}
+
+#second-row{
+    height: 45%;
+}
