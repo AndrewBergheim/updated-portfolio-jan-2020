@@ -114,6 +114,10 @@ text-align: center;
     text-align: center;
 }
 
+.thirds{
+    height: 30%;
+}
+
 #contact-header{
     background-color: #36ba59;
 }
